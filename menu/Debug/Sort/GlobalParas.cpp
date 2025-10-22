@@ -1,0 +1,11 @@
+#include "stdafx.h"
+#include "GlobalParas.h"
+HWND g_MainViewWnd;
+SqList m_list;
+int m_howSort;
+int m_startflag=1;
+SqList m_store;
+SqList m_sorted;
+ESqList m_gap;
+int m_shellflag=0;
+QSqList m_record;

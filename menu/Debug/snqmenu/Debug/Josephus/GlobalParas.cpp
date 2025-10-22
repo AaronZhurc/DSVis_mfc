@@ -1,0 +1,14 @@
+#include "stdafx.h"
+#include "GlobalParas.h"
+HWND g_MainViewWnd;
+HWND g_TextViewWnd;
+LinkList m_ListCtrl;
+int m_num;
+int m_large;
+int m_first;
+int m_putout[100];
+int m_flagfirst;
+int m_count;
+int m_flagButton;
+LinkList m_pCtrl;
+int m_flagPrt=0;

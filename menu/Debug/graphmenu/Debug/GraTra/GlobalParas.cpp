@@ -1,0 +1,13 @@
+#include "stdafx.h"
+#include "GlobalParas.h"
+HWND g_MainViewWnd;
+HWND g_TextViewWnd;
+ALGraph m_CtrlGraph;
+int m_flagCtrl;
+int m_countVertex=0;
+int visited[30];
+int m_VisitVertex[30];
+int m_countPrint;
+int m_countAdj=0;
+int m_flagRadio;
+int m_flagPrt=0;

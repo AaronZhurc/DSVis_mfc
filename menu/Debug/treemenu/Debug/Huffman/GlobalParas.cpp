@@ -1,0 +1,12 @@
+#include "stdafx.h"
+#include "GlobalParas.h"
+HWND g_MainViewWnd;
+HWND g_TextViewWnd;
+int m_LeafNum;
+int m_LeafArr[100];
+Leaves* m_LeafCtrl;
+int m_TreeHigh=-1;
+int m_flagWidth=0;
+int m_flagCode=0;
+int m_LeafNum1;
+int m_flagPrt=0;
